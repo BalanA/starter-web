@@ -6,5 +6,5 @@ something else
 
 ## Deployement
 ceva
-## How To Contribute
+## All rights reserved How To Contribute
 2014 Git.Training
